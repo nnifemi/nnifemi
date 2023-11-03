@@ -23,6 +23,8 @@ Here are some of my programming languages I work with:
 - Tools and Frameworks:
 - [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+- ![My Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 
 
 ## 📚 Projects
