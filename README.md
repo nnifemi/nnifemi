@@ -16,7 +16,7 @@ Here are some of my programming languages I work with:
 
 ![HTML](https://link-to-badge-1-image.png)
 ![CSS](https://link-to-badge-2-image.png)
-![JAVASCRIPT](https://link-to-badge-2-image.png)
+![JAVASCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - Tools and Frameworks: Git
 
