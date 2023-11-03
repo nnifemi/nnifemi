@@ -37,11 +37,10 @@ Here are some of the projects I've worked on.
 
 ## 📫 Contact Me
 
-- Email: [Your Email Address]
 - 📞 Contact: +1 (431)-338-9963
 - 📧 Email: odeyeminifemi@icloud.com
 Feel free to reach out if you have any questions, collaborations, or just want to chat!
 
-## 🙏 Thanks for visiting!
+## 🙏🏾 Thanks for visiting!
 
-Thank you for taking the time to explore my GitHub profile. If you find any of my projects interesting or useful, don't forget to give them a ⭐️. Your support means a lot to me!
+Thank you for taking the time to explore my GitHub profile. If you find any of my projects interesting, make sure to give them a ⭐️. Thank you!
