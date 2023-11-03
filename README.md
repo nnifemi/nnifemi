@@ -23,7 +23,7 @@ Tools and Frameworks:
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-Stat Box:
+My Stat Box:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nnifemi&show_icons=true&theme=radical&hide=prs,issues)
 
