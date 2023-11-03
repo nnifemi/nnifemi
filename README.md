@@ -12,10 +12,11 @@ Welcome to my GitHub profile! I'm a student in the software developer program at
 
 ## Skills and Technologies
 
-Here are some of the skills and technologies I work with:
+Here are some of my programming languages I work with:
 
-![Badge 1](https://link-to-badge-1-image.png)
-![Badge 2](https://link-to-badge-2-image.png)
+![HTML](https://link-to-badge-1-image.png)
+![CSS](https://link-to-badge-2-image.png)
+![JAVASCRIPT](https://link-to-badge-2-image.png)
 
 - Tools and Frameworks: Git
 
@@ -24,15 +25,10 @@ Here are some of the skills and technologies I work with:
 
 Here are some of the projects I've worked on.
 
-1. **Project Name 1**
-   - Description: Brief description of the project.
+1. **Final-Project-For-JavaScript-Basics**
+   - Description: A project that makes use of JavaScript to extract the information from a users device.
    - GitHub Repository: [https://github.com/nnifemi/Final-Project-For-JavaScript-Basics](link_to_repo)
 
-2. **Project Name 2**
-   - Description: Brief description of the project.
-   - GitHub Repository: [Link to Repository](link_to_repo)
-
-3. ...
 
 
 ## 📫 Contact Me
