@@ -1,4 +1,4 @@
-![Banner]()
+![Banner](https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?auto=format&fit=crop&q=80&w=1976&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 # Hello, I'm Nifemi Leye-Odeyemi 👋
 
@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a student in the software developer program at
 Here are some of the skills and technologies I work with:
 
 ![Badge 1](https://link-to-badge-1-image.png)
-![Badge 2](https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?auto=format&fit=crop&q=80&w=1976&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Badge 2](https://link-to-badge-2-image.png)
 
 - Tools and Frameworks: Git
 
