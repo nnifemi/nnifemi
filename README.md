@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm a student in the software developer program at
 
 - 🌍 Location: Winnipeg, Manitoba
 - 🎓 Education: Student At MITT
-- 📧 Contact: [Your Email Address]
-- 🌐 Website: [Your Personal Website] (if applicable)
+
 
 ## Skills and Technologies
 
@@ -18,12 +17,12 @@ Here are some of the skills and technologies I work with:
 ![Badge 1](https://link-to-badge-1-image.png)
 ![Badge 2](https://link-to-badge-2-image.png)
 
-- Tools and Frameworks: [List of tools and frameworks you use]
-- Databases: [List of databases you work with]
+- Tools and Frameworks: Git
+
 
 ## 📚 Projects
 
-Here are some of the projects I've worked on. You can find more details in my [Portfolio](link_to_portfolio_if_applicable).
+Here are some of the projects I've worked on.
 
 1. **Project Name 1**
    - Description: Brief description of the project.
@@ -35,16 +34,12 @@ Here are some of the projects I've worked on. You can find more details in my [P
 
 3. ...
 
-## 🌱 Current Focus
-
-I'm currently working on [Briefly describe what you're currently focusing on in your projects].
 
 ## 📫 Contact Me
 
 - Email: [Your Email Address]
-- LinkedIn: [Your LinkedIn Profile](link_to_linkedin)
-- Twitter: [Your Twitter Profile](link_to_twitter)
-
+- 📞 Contact: +1 (431)-338-9963
+- 📧 Email: odeyeminifemi@icloud.com
 Feel free to reach out if you have any questions, collaborations, or just want to chat!
 
 ## 🙏 Thanks for visiting!
