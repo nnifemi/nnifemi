@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a student in the software developer program at
 
 Here are some of my programming languages I work with:
 
-![HTML](https://link-to-badge-1-image.png)
-![CSS](https://link-to-badge-2-image.png)
+[![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/TR/html52/)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
