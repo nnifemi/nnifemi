@@ -20,9 +20,11 @@ Here are some of my programming languages I work with:
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://commonmark.org/)
 
 Tools and Frameworks:
-  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 Stat Box:
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nnifemi&show_icons=true&theme=radical&hide=prs,issues)
 
 ## 📚 Projects
