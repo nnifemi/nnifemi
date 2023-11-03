@@ -2,13 +2,12 @@
 
 # Hello, I'm Nifemi Leye-Odeyemi 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession] passionate about [Your Interests]. Here you'll find a collection of my projects and contributions to the open-source community.
+Welcome to my GitHub profile! I'm a student in the software developer program at MITT. Here you'll find a collection of my projects and contributions to the open-source community.
 
 ## About Me
 
-- 🌍 Location: [Your Location]
-- 💼 Profession: [Your Profession]
-- 🎓 Education: [Your Education]
+- 🌍 Location: Winnipeg, Manitoba
+- 🎓 Education: Student At MITT
 - 📧 Contact: [Your Email Address]
 - 🌐 Website: [Your Personal Website] (if applicable)
 
