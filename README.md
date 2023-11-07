@@ -31,7 +31,7 @@ My Stat Box:
 
 Here are some of the projects I've worked on.
 
-1. **Final-Project-For-JavaScript-Basics**
+1. **Client Detection Project**
    - Description: A project that makes use of JavaScript to extract the information from a users device.
    - GitHub Repository: [https://github.com/nnifemi/Final-Project-For-JavaScript-Basics](link_to_repo)
 
