@@ -34,8 +34,9 @@ Here are some of the projects I've worked on.
 1. **Client Detection Project**
    - Description: A project that makes use of JavaScript to extract the information from a users device.
    - GitHub Repository: Click [here](https://github.com/nnifemi/client-detection)
-
-
+2. **Tic Tac Toe Game**
+   - Description: A simple game that uses JavaScript functions to form X and O on click in the gameboard, and determines the winner.
+   - GitHub Repository: Click [here](https://github.com/nnifemi/tic-tac-toe)
 
 ## 📫 Contact Me
 
