@@ -9,7 +9,6 @@ Welcome to my GitHub profile! I'm a student in the software developer program at
 - 🌍 Location: Winnipeg, Manitoba
 - 🎓 Education: Student At MITT
 
-
 ## Skills and Technologies
 
 Here are some of my programming languages I work with:
@@ -18,6 +17,8 @@ Here are some of my programming languages I work with:
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://commonmark.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 
 Tools and Frameworks:
 
@@ -32,7 +33,7 @@ My Stat Box:
 Here are some of the projects I've worked on.
 
 1. **Client Detection Project**
-   - Description: A project that makes use of JavaScript to extract the information from a users device.
+   - Description: A project that makes use of JavaScript to extract the information from a user's device.
    - GitHub Repository: Click [here](https://github.com/nnifemi/client-detection)
 2. **Tic Tac Toe Game**
    - Description: A simple game that uses JavaScript functions to form X and O on click in the gameboard, and determines the winner.
